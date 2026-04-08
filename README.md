@@ -2,7 +2,7 @@
 
 Backend Developer focado em PHP (Laravel) e Java (Spring Boot)
 
-🚀 Experiência prática no desenvolvimento de sistemas que impactam diretamente o negócio, incluindo solução que contribuiu para redução de perdas operacionais de até R$200 mil/mês.
+🚀 Experiência prática no desenvolvimento de sistemas que impactam diretamente o negócio, incluindo solução que contribuiu para redução de perdas operacionais.
 
 ## 🧠 Stack Principal
 
