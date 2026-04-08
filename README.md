@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Flávio Gustavo
 
-<!--
-**flaviogustavorj/flaviogustavorj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focado em PHP (Laravel) e Java (Spring Boot)
 
-Here are some ideas to get you started:
+🚀 Experiência prática no desenvolvimento de sistemas que impactam diretamente o negócio, incluindo solução que contribuiu para redução de perdas operacionais de até R$200 mil/mês.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Stack Principal
+
+- PHP (Laravel)
+- Java (Spring Boot)
+- APIs REST
+- MySQL / PostgreSQL
+- Docker
+
+## 📌 Projetos em destaque
+
+### 🔹 Sistema de Gestão de Materiais
+Sistema completo com controle de estoque, requisições e rastreabilidade.
+
+### 🔹 API REST (Spring Boot)
+API com autenticação JWT, CRUD completo e integração com banco PostgreSQL.
+
+## 📫 Contato
+
+- LinkedIn: linkedin.com/in/flavio-gustavo
+- Email: flaviogustavorj@gmail.com
